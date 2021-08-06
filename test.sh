@@ -1,4 +1,4 @@
 #!/bin/bash
 
 uname -a
-apt-get update
+sudo apt-get update
