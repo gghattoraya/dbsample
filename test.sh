@@ -2,4 +2,3 @@
 
 uname -a
 python --version
-mvn -v
