@@ -2,3 +2,4 @@
 
 uname -a
 python --version
+docker version
