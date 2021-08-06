@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker version
+lsb_release -a or cat /etc/*release
