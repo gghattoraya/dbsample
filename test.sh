@@ -1,4 +1,4 @@
 #!/bin/bash
 
 uname -a
-apk add docker
+apt-get update
