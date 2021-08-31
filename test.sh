@@ -2,4 +2,4 @@
 
 uname -a
 python --version
-echo "Hello world!"
+echo "Hello $1"
