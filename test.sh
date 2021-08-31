@@ -2,4 +2,4 @@
 
 uname -a
 python --version
-docker version
+echo "Hello world!"
